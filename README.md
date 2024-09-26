@@ -8,9 +8,9 @@
 
 - 🤝 I’m looking for help with **web development,ui/ux, frameworks**
 
-- 📫 How to reach me **reis_pio IG**
+- 📫 How to reach me **chat wa**
 
-- ⚡ Fun fact **Makan nasi padang pake sendok**
+- ⚡ Fun fact **mencari Fun fact**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
