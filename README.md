@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1000px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3cyamxhZzJiNXY5emd3aXlwajBkcnQ5ZjV3bGp1ejd3NnY5b29vciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" alt="logo">
+  <img width="900px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXVsN3JwdnpiZWhvZHc5OHY2bWo0a2RkYjlpa3pqaXoyampqeTlpNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kfZfVqxRQ39Bu/giphy.gif" alt="logo">
 </p>
 
 <h1 align="center">Hi 👋, you can call me PIO</h1>
