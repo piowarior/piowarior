@@ -47,11 +47,11 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reispio&theme=radical&hide_border=true" alt="streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piowarior&theme=radical&hide_border=true" alt="streak">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reispio&show_icons=true&theme=radical&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=piowarior&show_icons=true&theme=radical&hide_border=true">
 </p>
 
 ---
