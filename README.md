@@ -7,7 +7,7 @@
 <h3 align="center">A passionate beginner programmer stepping into the world of coding! 🚀</h3>
 
 <!-- Animasi GIF -->
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
+<img margin-left="50px" align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
 ### 👨‍💻 About Me  
 - 🌱 I’m currently learning **Web Development, Game Development, UI/UX, Frameworks**  
