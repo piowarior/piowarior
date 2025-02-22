@@ -12,7 +12,7 @@
 ### 👨‍💻 About Me  
 - 🌱 I’m currently learning **Web Development, Game Development, UI/UX, Frameworks**  
 - 🤝 I’m looking for collaboration in **Web Development & UI/UX**  
-- 📫 How to reach me? **Let's chat via WhatsApp!**  
+- 📫 How to reach me? **Let's chat via Instagram!**  
 - ⚡ Fun fact: **Still looking for a fun fact 😆**  
 
 ---
