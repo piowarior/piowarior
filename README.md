@@ -3,7 +3,7 @@
   <img width="900px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnlweTJxd3JyY2dwNnlzNnExZWhqdXBjczg1MDZkZXEzMHlycHVwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tyttpH9pI19c4OZ4WUo/giphy.gif" alt="logo">
 </p>
 
-<h1 align="center">Hi 👋, You can call me ```Pio```</h1>
+<h1 align="center">Hi 👋, You can call me <span color="red">Pio</span></h1>
 <h3 align="center">A passionate beginner programmer stepping into the world of coding! 🚀</h3>
 
 <!-- Animasi GIF -->
